@@ -9,8 +9,7 @@ import RecentQuizzesGrid from '../createquiz/components/RecentQuizzesGrid';
 import './CreateQuiz.css';
 
 
-import { MOCK_DOCUMENTS } from "../../data/mockQuizzes";
-
+import { MOCK_DOCUMENTS, MOCK_QUIZ_DATA } from "../../data/mockQuizzes";
 const MOCK_RECENT_QUIZZES = [
   {
     id: "rec1",
